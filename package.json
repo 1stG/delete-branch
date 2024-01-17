@@ -24,7 +24,7 @@
     "graphql": "^14.4.2",
     "graphql-tag": "^2.10.1",
     "micromatch": "^4.0.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.7.0",
     "signale": "^1.4.0",
     "tslib": "^1.10.0"
   },
@@ -38,7 +38,7 @@
     "@types/jest": "^24.0.15",
     "@types/micromatch": "^3.1.0",
     "@types/node": "^12.6.8",
-    "@types/node-fetch": "^2.5.0",
+    "@types/node-fetch": "^2.6.11",
     "@types/signale": "^1.2.1",
     "commitlint": "^8.1.0",
     "concurrently": "^4.1.1",
