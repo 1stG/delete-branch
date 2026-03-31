@@ -829,10 +829,10 @@
   resolved "https://registry.yarnpkg.com/@mdx-js/util/-/util-1.6.22.tgz#219dfd89ae5b97a8801f015323ffa4b62f45718b"
   integrity sha512-H1rQc1ZOHANWBvPcW+JpGwr+juXSxM8Q8YCkm3GhZd8REu1fHR3z99CErO1p9pkcfcxZnMdIZdIsXkOHY0NilA==
 
-"@octokit/graphql-schema@^6.24.0":
-  version "6.24.0"
-  resolved "https://registry.yarnpkg.com/@octokit/graphql-schema/-/graphql-schema-6.24.0.tgz#74f3fe155ced39818d84c2948b6f163ba03fd02d"
-  integrity sha512-gRgzcZOABi2vyGEJFtQL9ySouiZFuHAfquqKOEdWmVGnQzZmPsMZJ0qKMGeuxT7/pM9dTFlazh8qY4zFD3sY9A==
+"@octokit/graphql-schema@^6.70.1":
+  version "6.70.1"
+  resolved "https://registry.yarnpkg.com/@octokit/graphql-schema/-/graphql-schema-6.70.1.tgz#1b209a9027d699d844f3587dfa69709cea28007f"
+  integrity sha512-ueSczjv6G25h9p3vpKo8jqr8QcCQyLTad9SAZB5Z219nZFnkz/MloZa6Yslxy3lBvn3gjV8cHdvRrTVroHjvYg==
 
 "@rxts/eslint-plugin-mdx@^0.11.1":
   version "0.11.2"
