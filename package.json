@@ -22,7 +22,7 @@
     "apollo-boost": "^0.4.9",
     "commander": "^2.20.3",
     "graphql": "^14.7.0",
-    "graphql-tag": "^2.12.6",
+    "graphql-tag": "^2.12.7",
     "micromatch": "^4.0.2",
     "node-fetch": "^2.7.0",
     "signale": "^1.4.0",
